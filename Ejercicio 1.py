@@ -39,6 +39,5 @@ p1 = Producto(1, 'Producto 1', 5)
 p2 = Producto(2, 'Producto 2', 10)
 p3 = Producto(3, 'Producto 3', 20)
 
-print(p1)
-print(p2)
-print(p3)
+
+
